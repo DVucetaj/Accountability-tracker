@@ -1,0 +1,1 @@
+This is an accountability web app. Sign up with a friend and you can both see eachother's progress and track your
