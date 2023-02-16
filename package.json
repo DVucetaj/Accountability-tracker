@@ -1,0 +1,24 @@
+{
+  "name": "accountability-tracker",
+  "version": "1.0.0",
+  "description": "This is an accountability web app. Sign up with a friend and you can both see eachother's progress and track your",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DVucetaj/Accountability-tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DVucetaj/Accountability-tracker/issues"
+  },
+  "homepage": "https://github.com/DVucetaj/Accountability-tracker#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "expressjs": "^1.0.1",
+    "sqlite3": "^5.1.4"
+  }
+}
